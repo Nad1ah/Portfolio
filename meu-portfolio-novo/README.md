@@ -55,25 +55,6 @@ Este é o meu portfolio pessoal, onde apresento minhas habilidades, projetos e i
    - **Links para Redes Sociais:** GitHub, LinkedIn.
    - **CV para Download:** Opção para baixar o currículo em PDF.
 
-## Elementos de Design
-
-- **Esquema de Cores:**
-  - Cor Principal: Azul profissional (#0077B6)
-  - Cor Secundária: Verde tecnológico (#00B4D8)
-  - Cor de Destaque: Laranja vibrante (#FF9E00)
-  - Cores Neutras: Cinza claro (#F8F9FA), Cinza escuro (#343A40), Branco (#FFFFFF)
-
-- **Tipografia:**
-  - Títulos: Poppins (sans-serif, moderna e clara)
-  - Corpo de Texto: Inter (sans-serif, altamente legível)
-  - Código: JetBrains Mono (monospace, ideal para snippets de código)
-
-- **Elementos Visuais:**
-  - Ícones: Lucide icons para consistência visual
-  - Ilustrações: Gráficos minimalistas representando conceitos de programação
-  - Animações: Transições suaves e animações sutis para melhorar a experiência do usuário
-  - Modo Escuro: Opção de alternar entre modo claro e escuro
-
 ## Funcionalidades Interativas
 
 - **Navegação Suave:** Scroll suave entre seções.
